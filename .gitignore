@@ -1,1 +1,4 @@
 .env
+big_q_key.json
+**/*.env
+**/chap2/big_q_key.json
